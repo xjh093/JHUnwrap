@@ -246,3 +246,5 @@ func test2() {
 
 test1()   // Dictionary<String, Any>
 //test2()   // Dictionary<String, Any?>
+
+//foo or bar
